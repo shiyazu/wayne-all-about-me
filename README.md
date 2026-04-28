@@ -9,7 +9,7 @@
 I’m a senior high student passionate about building real-world solutions using Python.  
 Currently, I am looking for **side job opportunities** where I can apply my skills in automation, machine learning, and software development.
 
-I enjoy turning ideas into working systems—from simple tools to AI-powered applications.
+I enjoy turning ideas into working systems from simple tools to AI-powered applications.
 
 ---
 

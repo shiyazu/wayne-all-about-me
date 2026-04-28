@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I’m a senior high student passionate about building real-world solutions using Python.  
 Currently, I am looking for **side job opportunities** where I can apply my skills in automation, machine learning, and software development.
 
@@ -13,7 +13,7 @@ I enjoy turning ideas into working systems—from simple tools to AI-powered app
 
 ---
 
-## 🧠 Skills
+##  Skills
 - Python Programming  
 - Machine Learning (Computer Vision)  
 - Web Scraping  
@@ -48,7 +48,7 @@ A machine learning project that detects hand movements using computer vision.
 
 ---
 
-## 🎯 What I'm Looking For
+##  What Im Looking For
 I am currently open to:
 - Freelance / side projects  
 - Python-related tasks  
@@ -57,7 +57,7 @@ I am currently open to:
 
 ---
 
-## ⚡ Why Work With Me?
+ Why Work With Me?
 - Fast learner and highly motivated  
 - Can adapt to different project needs  
 - Focused on delivering working solutions  
@@ -65,7 +65,7 @@ I am currently open to:
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 - Email: waynecharlescesistamonte@gmail.com  
 - GitHub: https://github.com/shiyazu
 
